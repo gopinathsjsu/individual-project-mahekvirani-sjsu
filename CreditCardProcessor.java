@@ -131,8 +131,8 @@ public class CreditCardProcessor {
     }
 
     public static void main(String[] args) {
-        String inputFilePath = "/Users/admin/Pictures/202_individual_project/inputs/demo2_inp.json";
-        String outputFilePath = "/Users/admin/Pictures/202_individual_project/outputs/demo2_out.json";
+        String inputFilePath = "./inputs/demo2_inp.json";
+        String outputFilePath = "./outputs/demo2_out.json";
 
         // Create an instance of CreditCardProcessor and process the file
         CreditCardProcessor processor = new CreditCardProcessor();
