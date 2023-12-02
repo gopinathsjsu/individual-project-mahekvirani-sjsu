@@ -1,0 +1,4 @@
+CardNumber,CardType
+5567894523129089,MasterCard
+59012345678901234567890,Invalid: more than 19 digits
+347856341908126,AmericanExpress

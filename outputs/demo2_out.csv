@@ -1,0 +1,4 @@
+CardNumber, CardType
+4123456789123, Visa
+6011111100007756, Discovery
+3601112345678789, Invalid

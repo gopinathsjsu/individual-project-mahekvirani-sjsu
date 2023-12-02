@@ -1,0 +1,14 @@
+[
+    {
+        "CardNumber": "5567894523129089",
+        "CardType": "MasterCard"
+    },
+    {
+        "CardNumber": "59012345678901234567890",
+        "CardType": "Invalid: Card number exceeds maximum length"
+    },
+    {
+        "CardNumber": "347856341908126",
+        "CardType": "AmericanExpress"
+    }
+]
