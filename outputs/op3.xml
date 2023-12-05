@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CreditCards>
+    <CreditCard>
+        <CardNumber>5567894523129089</CardNumber>
+        <CardType>MasterCard</CardType>
+        <CardHolder>John DoE</CardHolder>
+        <ExpirationDate>08/26</ExpirationDate>
+    </CreditCard>
+    <CreditCard>
+        <CardNumber>59012345678901234567890</CardNumber>
+        <CardType>Invalid: Card number exceeds maximum length</CardType>
+        <CardHolder>Lisa Claire</CardHolder>
+        <ExpirationDate>10/24</ExpirationDate>
+    </CreditCard>
+    <CreditCard>
+        <CardNumber>347856341908126</CardNumber>
+        <CardType>AmericanExpress</CardType>
+        <CardHolder>Jane S. Dayton</CardHolder>
+        <ExpirationDate>03/23</ExpirationDate>
+    </CreditCard>
+</CreditCards>

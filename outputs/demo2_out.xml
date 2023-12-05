@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CreditCards>
+    <CreditCard>
+        <CardNumber>4123456789123</CardNumber>
+        <CardType>Visa</CardType>
+        <CardHolder>Martha Clark</CardHolder>
+        <ExpirationDate>04/26</ExpirationDate>
+    </CreditCard>
+    <CreditCard>
+        <CardNumber>6011111100007756</CardNumber>
+        <CardType>Discovery</CardType>
+        <CardHolder>John Doe</CardHolder>
+        <ExpirationDate>02/24</ExpirationDate>
+    </CreditCard>
+    <CreditCard>
+        <CardNumber>3601112345678789</CardNumber>
+        <CardType>Invalid</CardType>
+        <CardHolder>Lara Wayne</CardHolder>
+        <ExpirationDate>06/24</ExpirationDate>
+    </CreditCard>
+</CreditCards>
